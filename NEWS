@@ -1,3 +1,7 @@
+2017.1.1 08-10-17
+  openstack-status: 
+    Updated commands to use OpenStack CLI
+
 2016.1-1 11-07-2016
   openstack-db:
     remove out-of-date utility
